@@ -24,9 +24,9 @@ h6 {
 }
 .navbar {
     margin-bottom: 0;
-    background-color: #a21d2a;
+    background-color: #A9D0F5;
     font-size: 1.2em;
-    border-color: #58050d;
+    border-color: #A9D0F5;
 }
 .navbar-inverse .navbar-nav>li>a {
     color: #fff;
@@ -52,10 +52,10 @@ h6 {
     border: 0;
 }
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #711111;
+    background-color: #A9D0F5;
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #690b0b;
+    border-color: #A9D0F5;
 }
 .header {
     text-align: center;
@@ -179,16 +179,16 @@ h6 {
     outline: 0 none;
 }
 .btn-primary {
-    background-color: #840e1a;
+    background-color: #A9D0F5;
     border: 0;
-    box-shadow: 0 4px 0 0 #3c040a;
+    box-shadow: 0 4px 0 0 #58ACFA;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .open > .dropdown-toggle.btn-primary {
-    background-color: #a21d2a;
+    background-color: #A9D0F5;
     border: 0;
-    box-shadow: 0 4px 0 0 #3c040a;
+    box-shadow: 0 4px 0 0 #58ACFA;
 }
 .btn-primary.active.focus,
 .btn-primary.active:focus,
@@ -199,7 +199,7 @@ h6 {
 .open>.dropdown-toggle.btn-primary.focus,
 .open>.dropdown-toggle.btn-primary:focus,
 .open>.dropdown-toggle.btn-primary:hover {
-    background: #a21d2a;
+    background: #A9D0F5;
     border: 0;
     box-shadow: none;
     margin-bottom: -4px;

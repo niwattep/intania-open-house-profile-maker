@@ -32,16 +32,16 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- PLEASE EDIT YOUR METADATA HERE, OTHERWISE IT WILL SHOW METADATA OF MY EVENT INSTEAD -->
-	<meta name="description" content="มาสร้างรูปโปรไฟล์ Intania Open House กันเถอะ! แล้วอย่าลืมนะ 15-17 พฤศจิกายน 2558 ณ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย มาเถอะ อยากเจอ">
-	<meta name="author" content="Chula Engineering">
+	<meta name="description" content="มาสร้างรูปโปรไฟล์ STAT CHULA กันเถอะ! แล้วอย่าลืมนะ 15-17 พฤศจิกายน 2560 ณ คณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย มาเถอะ อยากเจอ">
+	<meta name="author" content="STAT CHULA">
 	<meta property="og:url" content="http://xvista.in.th/intaniaopenhouse/profile/">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="Intania Open House | Profile Picture Maker">
-	<meta property="og:description" content="มาสร้างรูปโปรไฟล์ Intania Open House กันเถอะ! แล้วอย่าลืมนะ 15-17 พฤศจิกายน 2558 ณ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย มาเถอะ อยากเจอ">
+	<meta property="og:title" content="STAT CHULA Open House | Profile Picture Maker">
+	<meta property="og:description" content="มาสร้างรูปโปรไฟล์ STAT CHULA Open House กันเถอะ! แล้วอย่าลืมนะ 15-17 พฤศจิกายน 25560 ณ คณะพาณิชยศาตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย มาเถอะ อยากเจอ">
 	<meta property="og:image" content="http://xvista.in.th/intaniaopenhouse/profile/img/fbpic.png">
 	<!-- END OF METADATA SECTION -->
 
-	<title>Intania Open House | Profile Picture Maker</title>
+	<title>STAT CHULA Open House | Profile Picture Maker</title>
 
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 
@@ -67,13 +67,13 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand" href="">Intania Open House</a>
+		  <a class="navbar-brand" href="">STAT CHULA Open House</a>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
 		  <ul class="nav navbar-nav">
 			<li><a href="https://www.facebook.com/intaniaopenhouse" target="_blank"><i class="fa fa-facebook-official"></i> Official Facebook Page</a></li>
-			<li><a href="https://www.facebook.com/chulaengineering" target="_blank"><i class="fa fa-facebook-official"></i> Facebook วิศวฯ จุฬาฯ</a></li>
-			<li><a href="http://www.eng.chula.ac.th" target="_blank"><i class="fa fa-globe"></i> Website วิศวฯ จุฬาฯ</a></li>
+			<li><a href="https://www.facebook.com/chulaengineering" target="_blank"><i class="fa fa-facebook-official"></i> Facebook สถิติฯ จุฬาฯ</a></li>
+			<li><a href="http://www.eng.chula.ac.th" target="_blank"><i class="fa fa-globe"></i> Website สถิติฯ จุฬาฯ</a></li>
 		  </ul>
 		</div><!--/.nav-collapse -->
 	  </div>
