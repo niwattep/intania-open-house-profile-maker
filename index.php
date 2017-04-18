@@ -82,7 +82,7 @@
 	<div class="container">
 	  <div class="row">
 		<div class="header col-md-8 col-md-offset-2">
-		  <img class="img-responsive" src="img/header.png">
+		  <img class="img-responsive" src="img/header.jpg">
 		</div>
 	  </div>
 	</div>
@@ -121,7 +121,7 @@
 		  <div id="img-result"><canvas id="img-canvas" width="1024" height="1024"></canvas><div id="loading">กำลังโหลด...</div></div>
 		  <button id="btn-download" class="btn btn-primary btn-lg btn-block"><i class="fa fa-download"></i> ดาวน์โหลด</button>
 		  <div class="facebook-section">
-			<a href="https://www.facebook.com/intaniaopenhouse" target="_blank" class="btn btn-primary btn-lg btn-block btn-facebook"><i class="fa fa-facebook-official"></i> มากดไลค์เพจกันเถอะ นะๆ</a>
+			<a href="https://web.facebook.com/STATCUEXPO2017/" target="_blank" class="btn btn-primary btn-lg btn-block btn-facebook"><i class="fa fa-facebook-official"></i> มากดไลค์เพจกันเถอะ นะๆ</a>
 		  </div>
 		</div>
 		<div class="col-md-8">
@@ -129,7 +129,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<h2>เลือกข้อความที่ต้องการ</h2>
 					<p class="text-center">คลิกเลือกข้อความแล้วดูตัวอย่างภาพที่ได้ เมื่อเลือกได้ตามที่ต้องการแล้ว คลิกปุ่มดาวน์โหลดใต้ภาพตัวอย่าง</p>
-					<p class="text-center p-no-margin">ยังไม่มีข้อความถูกใจ? ลองมาขอข้อความใน<a href="https://www.facebook.com/intaniaopenhouse" target="_blank">เพจของเรา</a>สิ!</p>
+					<p class="text-center p-no-margin">ยังไม่มีข้อความถูกใจ? ลองมาขอข้อความใน<a href="https://web.facebook.com/STATCUEXPO2017/" target="_blank">เพจของเรา</a>สิ!</p>
 				</div>
 		  </div>
 
