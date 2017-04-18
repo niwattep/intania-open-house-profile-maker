@@ -34,11 +34,11 @@
 	<!-- PLEASE EDIT YOUR METADATA HERE, OTHERWISE IT WILL SHOW METADATA OF MY EVENT INSTEAD -->
 	<meta name="description" content="มาสร้างรูปโปรไฟล์ STAT CHULA กันเถอะ! แล้วอย่าลืมนะ 15-17 พฤศจิกายน 2560 ณ คณะพาณิชยศาสตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย มาเถอะ อยากเจอ">
 	<meta name="author" content="STAT CHULA">
-	<meta property="og:url" content="http://xvista.in.th/intaniaopenhouse/profile/">
+	<!--<meta property="og:url" content="http://xvista.in.th/intaniaopenhouse/profile/">-->
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="STAT CHULA Open House | Profile Picture Maker">
 	<meta property="og:description" content="มาสร้างรูปโปรไฟล์ STAT CHULA Open House กันเถอะ! แล้วอย่าลืมนะ 15-17 พฤศจิกายน 25560 ณ คณะพาณิชยศาตร์และการบัญชี จุฬาลงกรณ์มหาวิทยาลัย มาเถอะ อยากเจอ">
-	<meta property="og:image" content="http://xvista.in.th/intaniaopenhouse/profile/img/fbpic.png">
+	<!--<meta property="og:image" content="http://xvista.in.th/intaniaopenhouse/profile/img/fbpic.png">-->
 	<!-- END OF METADATA SECTION -->
 
 	<title>STAT CHULA Open House | Profile Picture Maker</title>
@@ -71,9 +71,9 @@
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
 		  <ul class="nav navbar-nav">
-			<li><a href="https://www.facebook.com/intaniaopenhouse" target="_blank"><i class="fa fa-facebook-official"></i> Official Facebook Page</a></li>
-			<li><a href="https://www.facebook.com/chulaengineering" target="_blank"><i class="fa fa-facebook-official"></i> Facebook สถิติฯ จุฬาฯ</a></li>
-			<li><a href="http://www.eng.chula.ac.th" target="_blank"><i class="fa fa-globe"></i> Website สถิติฯ จุฬาฯ</a></li>
+			<li><a href="https://web.facebook.com/STATCUEXPO2017/" target="_blank"><i class="fa fa-facebook-official"></i> Official Facebook Page</a></li>
+			<li><a href="https://web.facebook.com/chulastat/" target="_blank"><i class="fa fa-facebook-official"></i> Facebook สถิติฯ จุฬาฯ</a></li>
+			<li><a href="http://www.cbs.chula.ac.th/departments-th/statistics-th/" target="_blank"><i class="fa fa-globe"></i> Website สถิติฯ จุฬาฯ</a></li>
 		  </ul>
 		</div><!--/.nav-collapse -->
 	  </div>
