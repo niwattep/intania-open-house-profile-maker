@@ -40,7 +40,7 @@ h6 {
 }
 .navbar-inverse .navbar-brand {
     text-transform: uppercase;
-    color: #FAEE1C;
+    color: #fff;
     font-family: "Boon700";
     font-weight: 700;
     font-size: 1.3em;
@@ -52,10 +52,10 @@ h6 {
     border: 0;
 }
 .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
-    background-color: #FAEE1C;
+    background-color: #643579;
 }
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color: #FAEE1C;
+    border-color: #fff;
 }
 .header {
     text-align: center;
@@ -179,16 +179,16 @@ h6 {
     outline: 0 none;
 }
 .btn-primary {
-    background-color: #9C1DE7;
+    background-color: #643579;
     border: 0;
-    box-shadow: 0 4px 0 0 #581B98;
+    box-shadow: 0 4px 0 0 #3d1860;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .open > .dropdown-toggle.btn-primary {
-    background-color: #A9D0F5;
+    background-color: #643579;
     border: 0;
-    box-shadow: 0 4px 0 0 #58ACFA;
+    box-shadow: 0 4px 0 0 #3d1860;
 }
 .btn-primary.active.focus,
 .btn-primary.active:focus,
@@ -199,7 +199,7 @@ h6 {
 .open>.dropdown-toggle.btn-primary.focus,
 .open>.dropdown-toggle.btn-primary:focus,
 .open>.dropdown-toggle.btn-primary:hover {
-    background: #A9D0F5;
+    background: #643579;
     border: 0;
     box-shadow: none;
     margin-bottom: -4px;
@@ -224,9 +224,9 @@ fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary:hover {
-    background-color: #e8838d;
+    background-color: #643579;
     border: 0;
-    box-shadow: 0 4px 0 0 #d87272;
+    box-shadow: 0 4px 0 0 #3d1860;
 }
 .btn-lg {
     font-size: 1.5em;
